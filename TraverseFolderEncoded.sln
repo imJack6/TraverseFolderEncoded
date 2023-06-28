@@ -2,6 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseFolderEncoded", "TraverseFolderEncoded\TraverseFolderEncoded.csproj", "{D2B8BF66-E30C-4156-BA04-8C64EE76778C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{EA92E9C5-AA26-487A-9744-41D22448116B}"
+	ProjectSection(SolutionItems) = preProject
+		rEaDmE.mD = rEaDmE.mD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
