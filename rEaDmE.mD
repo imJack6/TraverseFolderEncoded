@@ -1,6 +1,6 @@
 # `Traverse Folder Encoded`
 
-A simple and fast file conversion and encoding tool, **`data is priceless and should be used with caution`**.
+A simple and fast file conversion and encoding tool. **`Data is priceless, so use it with caution.`**
 
 ## Known issues
 
